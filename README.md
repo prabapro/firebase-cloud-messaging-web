@@ -28,8 +28,10 @@
 1. Go to Firebase > Cloud Messaging > New notification
 2. Enter Notification title, Notification text & the notification image (optional - you may use `https://localhost/assest/img/dialog_logo.png`)
 3. Once the details are filled, press `Send test message`
+4. Paste the browser token
+5. Press `Test`
 
-![Send message from Firebase Console](/assets/img/demo-firebase-console.gif)
+![Send message from Firebase Console](/assets/img/demo-fbc.gif)
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [cloud messaging overview]: https://firebase.google.com/docs/cloud-messaging
